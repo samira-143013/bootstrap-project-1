@@ -1,0 +1,272 @@
+*{
+    box-sizing: border-box;
+}
+
+.main-text ,.next-text{
+    line-height: 2rem;
+    max-width: 80rem;
+    font-weight: 450; 
+    text-align: justify;
+}
+.contain-next{
+   
+}
+.img-carousel{
+    height: 366px;
+
+}
+.title-2 , .next-text{
+    padding-bottom: 1rem;
+    text-align: center;
+    padding: 0 5rem;
+}
+
+
+.content{
+    text-align: center;
+    margin: 8rem 0 0.8rem 0
+    
+}
+.row-card{
+    width: 100%;
+    padding:2rem 0;
+
+}
+.card{
+    /* height: 18rem; */
+}
+.card-body{
+    text-align: center;
+    /* height: 10rem; */
+    line-height: 2rem;
+    max-width: 1rem 0;
+}
+.card-title{background-color: blue;
+   border-top-left-radius: 0.3rem;
+   border-top-right-radius: 0.3rem;
+   margin-top: 0;
+   
+   padding: 0.5rem 0;
+   
+   color: #fff;
+
+}
+.card-body{
+    padding-top: 0;
+}
+.card-text{
+    line-height: 2rem;
+}
+
+.content-2{
+    margin: 4rem 0 3rem 0;
+    text-align: center;
+}
+
+.row-card-2{
+margin-top: 2rem;
+width: 100%;
+}
+
+.card-2{
+height: 23rem;
+width: 100%;
+transition: transform 0.2s ease-in;
+position: sticky;
+
+
+}
+.card-2:hover{
+ 
+    transform: translateY(-15px);
+    
+
+
+}
+.card-body-2{
+padding: 0 0;
+}
+
+.img-card {
+width: 100%;
+}
+.contain-text{
+
+}
+.pro{
+    margin-top: 1rem;
+}
+
+.card-text-2{
+    margin: 1rem 0;
+    /* padding: 0 1rem; */
+    line-height: 2rem;
+    font-size: 0.9rem;
+}
+
+
+
+
+.container-footer{
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 10rem;
+}
+
+.footer{
+    background-color: rgb(248, 247, 247);
+}
+.footer-contain{
+    text-align: center;
+}
+
+
+/* About us */
+.title-about ,.text-about{
+    text-align: center;
+}
+.title-about{
+    margin-top: 3rem;
+}
+.text-about{
+    margin-top: 2rem;
+}
+.blockquote{
+    line-height: 2rem;
+}
+.blockquote-footer{
+    font-size: 1rem;
+}
+.text-center{
+    line-height: 5rem;
+}
+.text-about-2{
+    padding-top: 2rem;
+}
+
+.carousel-control-prev ,.carousel-control-next {
+    width: 2rem;
+    height: 2rem;
+    margin:9rem 9rem;
+    background-color:rgb(56, 55, 55);
+    
+    
+}
+.info{
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.col-info{
+justify-content: center;
+
+    
+}
+.row-info{
+    
+}
+.img-info{
+  
+    width: 200px;
+    height: 200px;
+}
+.card-text-3 ,.job{
+    text-align: center;
+}
+
+.container-footer-2{
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 5rem;
+}
+
+.footer-2{
+    background-color: rgb(248, 247, 247);
+}
+.footer-contain-2{
+    text-align: center;
+}
+
+.content-4,.content-5 {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.content-4{
+    margin-top: 7rem;
+}
+.img-service{
+    width: 5rem;
+    margin-top: 1rem;
+}
+.card-text-4{
+    line-height: 1.5rem;
+    max-width: 31rem;
+    text-align: center;
+}
+
+.card-4{
+    height: 100%;
+    padding: 0 1rem;
+    width: 100%;
+}
+
+
+
+.fluid-price{
+    background-color: rgb(248, 247, 247);   
+    margin-top: 8rem
+}
+.content-5{
+    margin-top: 3rem;
+}    
+
+.row-card-5{
+/* width: 100%; */
+
+}
+.card-body-5{
+
+}
+
+
+.title-price{
+margin-top: 2rem;
+}
+
+.card-5{
+    height: 23rem;
+    padding: 0 1rem;
+    width: 100%;
+}
+.card-text-5{
+    line-height: 2.5rem;
+    margin-top: 2rem;
+}
+.btn-price{
+   margin-top: 1rem;
+   font-size: 1.2rem;
+   background-color: blue;
+}
+
+
+
+
+
+
+
+
+.title-contact{
+
+}
+
+.input:hover{
+    width:99%;
+    background-color: rgb(248, 248, 198);
+}
+.btn-contact{
+    background-color: blue 
+    ;
+}
+
+.map{
+    margin-top: 1rem;
+}
